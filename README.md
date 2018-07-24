@@ -4,9 +4,10 @@
 
 * Run a few commands to install some things that will be needed to make the widgets run in Jupyter Lab.
 
-> conda install -c conda-forge ipywidgets
-> conda install nodejs
-> jupyter labextension install @jupyter-widgets/jupyterlab-manager
+> conda install -c conda-forge ipywidgets  
+> conda install nodejs  
+> jupyter labextension install @jupyter-widgets/jupyterlab-manager  
+> conda install nb_conda_kernels  
 
 * Make a folder for Python stuff and change directory so you are in it.
 
