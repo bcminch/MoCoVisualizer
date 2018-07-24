@@ -3,3 +3,4 @@ ipywidgets
 numpy
 pandas
 nb_conda_kernels
+xlrd
